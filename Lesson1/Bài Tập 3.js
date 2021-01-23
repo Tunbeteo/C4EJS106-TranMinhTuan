@@ -1,0 +1,17 @@
+let message = ("Coding is great");
+console.log(message);
+let studentCount = 0;
+console.log(studentCount);
+var message1 = ("Coding is great");
+message1 = "Code might not be easy, but still great";
+console.log(message1);
+let studentCount1 = 0;
+studentCount1 = 0 + 16;
+console.log(studentCount1);
+var message2 = ("Coding is great");
+message2 = "Code might not be easy, but still great";
+console.log(message2.toLowerCase());
+let studentCount2 = 0;
+studentCount2 = 0 + 16;
+studentCount2++;
+console.log(studentCount2);
