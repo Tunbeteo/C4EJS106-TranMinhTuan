@@ -14,19 +14,19 @@
    // let giamon =prompt("enter price of item");
   //  console.log(`${tenmon}${giamon}`);
 //}
-//console.log("bai1")
-    //for (let i=0;i<=10;i++){
-        //console.log(i);
-    //}
-    //console.log("bai2")
-   // for (let i=10;i>=0;i--){
-        //console.log(i);
-   // }
-   // console.log("bai3")
-   // for (let i=0;i<=50;i=i+2){
-      //  console.log(i);
+console.log("bai1")
+    for (let i=0;i<=10;i++){
+        console.log(i);
+    }
+    console.log("bai2")
+   for (let i=10;i>=0;i--){
+        console.log(i);
+   }
+   console.log("bai3")
+   for (let i=0;i<=50;i=i+2){
+       console.log(i);
     
-  //  }
+   }
 
   //let m =prompt("nhập m");
   //let n =prompt('nhập n');
@@ -72,17 +72,17 @@
 
 // kiểm tra xem cái dòng nào bị đánh dấu dưới ~ thì là sai
 
-let tuoi=Number (prompt('Nhập tuổi xem được cưới vợ không ?'));
-if(tuoi<=10){
-    console.log("trẻ con")
-}
-    else if(tuoi<=20){
-        console.log('chưa đủ tuổi')
-    }
-        else if(tuoi<=60){
-            console.log("oke")
-        }
-            else {
-                console.log("già quá")
-            }
+// let tuoi=Number (prompt('Nhập tuổi xem được cưới vợ không ?'));
+// if(tuoi<=10){
+//     console.log("trẻ con")
+// }
+//     else if(tuoi<=20){
+//         console.log('chưa đủ tuổi')
+//     }
+//         else if(tuoi<=60){
+//             console.log("oke")
+//         }
+//             else {
+//                 console.log("già quá")
+//             }
             
