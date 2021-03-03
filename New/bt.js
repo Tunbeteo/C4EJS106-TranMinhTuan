@@ -35,12 +35,21 @@
 //         console.log(i)
 //     }
 // }
-console.log("câu 2d)")
-let sum=0;
-let m=Number(prompt("nhập M"))
-let n=Number(prompt("nhập n"))
+// console.log("câu 2d)")
+// let sum=0;
+// let m=Number(prompt("nhập M"))
+// let n=Number(prompt("nhập n"))
 
-for (i = m;i<=n;i++){
-sum=sum+i
-console.log(sum)
-}
+// for (i = m;i<=n;i++){
+// sum=sum+i
+// }
+// console.log(sum)
+// console.log("câu 2e)")
+// let sum=0;
+// let m=Number(prompt("nhập M"))
+// let n=Number(prompt("nhập n"))
+
+// for (i = m;i<=n;i++){
+// sum=sum*i
+// }
+// console.log(sum)

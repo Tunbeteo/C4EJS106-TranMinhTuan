@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\.git"
+		},
+		{
+			"path": "..\\Ảnh"
+		},
+		{
+			"path": "..\\Lesson1"
+		},
+		{
+			"path": "..\\Lesson2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "New"
+	}
+}
