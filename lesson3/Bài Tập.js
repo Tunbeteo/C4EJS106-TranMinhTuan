@@ -106,3 +106,8 @@
 //     alert(`${input} is NOT found in my array`);
 // }
 
+const sosheep = [5,7,300,90,24,50,75]
+console.log(`Hello, my name is Tuấn and here is my sheep sizes:  `);
+console.log(...sosheep)
+let max=Math.max.apply(Math,sosheep);
+console.log(`Now my biggest sheep has size ${max},let shave it`)
