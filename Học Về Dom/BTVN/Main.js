@@ -50,3 +50,15 @@ function wishTDo(name,wish){
 }
 
 wishTDo('Tuấn','Rich');
+// Bài 10
+function wishTDo(...orther){
+    if(orther.length>1){
+        alert(`Name: ${orther[0]} \nWish to do this year:${orther[1]}`);
+    }
+    else{
+        alert(`Name: ${orther[0]} \nWish to do this year:No wish to do this years`);
+    }
+}
+
+wishToDo('Tuấn',);
+
