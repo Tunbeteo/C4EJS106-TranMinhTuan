@@ -95,3 +95,32 @@ function pt(a,b,c) {
 }
 pt(3,2,5);
 pt(2,-7,3);
+
+// /* math
+// sqrt : can bac 2 cua a
+// pow(a,3): a mu 3
+// min [(1,2,3)]:1
+// max [(1,2,3)]:3
+// random():1 so thuc trong khoang (0,1)
+// floor(5.5):5
+
+function average(listMark){
+    let a = caculate(listMark)
+    if(a<5){
+        console.log(`yeu`);
+    }else
+    console.log(`kha`);
+}
+    
+
+function averageCaculate(listMark){
+    let sum = 0
+    let average = 0
+    let len = listMark.length
+    for (let num of listMark)
+    sum+=num
+    average=sum/len
+    return average
+
+}
+get rank 
