@@ -62,3 +62,8 @@ function wishTDo(...orther){
 
 wishToDo('Tuấn',);
 
+
+
+
+
+//// A Khánh chữa
